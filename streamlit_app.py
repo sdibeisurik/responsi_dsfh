@@ -66,5 +66,5 @@ if uploaded_file is not None:
         )
 
         st.success(
-            "Model berhasil disimpan sebagai Logistic_Regression.pkl"
+            "Modelnya berhasil disimpan sebagai Logistic_Regression.pkl"
         )
